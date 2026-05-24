@@ -1,4 +1,4 @@
-department_code,subject_code,subject_name,room_type_required,lab_category_required,specific_equipment/software_lab(null accepted),duration (in hours),classes_per_week,group_count
+department_code,subject_number,subject_name,room_required,required_lab_category,specific_equipment/software_lab(null accepted),duration (in hours),classes_per_week,group_count
 CSE,MTU-145-V,Maths 1,,,,1,4,1
 CSE,CHU-141-V,Chemistry,LECTURE HALL,,,1,4,1
 CSE,CHU-142-V,Chemistry Lab ,LAB,Physics Lab,,2,1,2
@@ -6,7 +6,7 @@ CSE,ENG-101-V,English ,LECTURE HALL,,,1,2,1
 CSE,ENG-103-V,English Lab ,LAB,English Lab,,2,1,2
 CSE,ELU-101-V,Basics of Electrical Engineering ,LECTURE HALL,,,1,4,1
 CSE,ELU-103-V,Basics of Electrical Engineering Lab ,LAB,Ekectrical Lab ,,2,1,2
-CSE,MEU-101-V,Workshop ,LAB,,,4,1,3
+CSE,MEU-101-V,Workshop ,LAB,Computer Lab,,4,1,3
 CSE,PCC-CS-301,Data Structures& Algorithms,LECTURE HALL,,,1,3,1
 CSE,ESC-302,Digital Electronics,LECTURE HALL,,,1,3,1
 CSE,BSC-301,Mathematics- III (Calculus and Ordinary Differential Equations),LECTURE HALL,,,1,3,1
