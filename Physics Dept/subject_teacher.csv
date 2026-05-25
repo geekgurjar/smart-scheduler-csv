@@ -1,4 +1,4 @@
-section_id,subject_code,Teacher_id,is_shared_lab,second_teacher_id
+section_id,subject_number,instructor_uid,shared_lab,second_instructor_uid
 BSC 1ST SEM,PHU-101-V,PHY10,,
 BSC 1ST SEM,PHU-103-V,PHY10;PHY10,yes,PHY14;PHY15
 BSC 1ST SEM,PHU-105-V,PHY14,,
